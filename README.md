@@ -7,7 +7,8 @@
 
 
 > Special Thanks to: Deviljin112 ( https://github.com/Deviljin112 ) Helping fix the bodybag delete issues, and optimization.
-> Special Thanks to: bzndk ( https://github.com/benzon ) Helping fix the original code to create the bodybag upon /command
+
+> And Also to: bzndk ( https://github.com/benzon ) Helping fix the original code to create the bodybag upon /command
 
 > Demo Video: https://streamable.com/2krfp
 
