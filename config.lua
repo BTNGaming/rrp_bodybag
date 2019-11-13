@@ -16,6 +16,8 @@ Keys = {
 
 --[[
 	
+	Version: 0.1.2
+	
 	If you are still having issues, or you have questions/comments, 
 	Visit the thread on the FiveM Forums @ https://https://forum.fivem.net/t/release-bodybag-for-pd-ems/
 	Continuing Development by BTNGaming & Deviljin112
