@@ -35,14 +35,22 @@
 
 ## Release History
 
+* 0.1.2
+   * ADD: Config file with many options
+   * ADD: Option for ESX or Standalone (Standalone is untested)
+   * ADD: Option for Keybind and/or Command
+   * Add: If both keybind and command set to false in config, Bag auto spawns on player upon death
+   * FIX: More optimized and clean clode
+   * ADD: Option to require specific job(s) or disable for anyone to do it.
+   * ADD: Ability to choose what jobs you want to have access to command/keybind
+   * ADD: Ability to set frequency for bag spawn/despawn on automatic bag spawning (Auto death bag)
+   * ADD: Option to change the bag model/hash in the config.
 * 0.1.1
     * FIX: Deletes prop (bodybag) correctly upon respawn
     * ADD: Updated so only Police and EMS can use /bodybag
 * 0.1.0
     * The first proper release
     * Fixed bodybag sticking to player on revive
-* 0.0.1
-    * Work in progress
 
 
 ## MORE UPDATES IN THE FUTURE!
