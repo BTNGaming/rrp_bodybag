@@ -32,6 +32,10 @@
 3) Enjoy!
 
 
+## DISCORD
+* Don't forget to join us on Discord: https://discord.me/rid
+* If that link doesn't work, Use this: https://discord.gg/9uRJv5v
+
 
 ## Release History
 
