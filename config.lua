@@ -15,10 +15,10 @@ Keys = {
 }
 
 --[[
-	
+
 	Version: 0.1.2
-	
-	If you are still having issues, or you have questions/comments, 
+
+	If you are still having issues, or you have questions/comments,
 	Visit the thread on the FiveM Forums @ https://https://forum.fivem.net/t/release-bodybag-for-pd-ems/
 	Continuing Development by BTNGaming & Deviljin112
 	Your ideas, are our creations!
@@ -35,10 +35,10 @@ Keys = {
 
 	To add more jobs or remove a job, simply go to line 61 or 121 in client.lua
 	Then to add the following line inside the brackets after Config.job_2:
-	
+
 	"or PlayerData.job.name == Config.job_3"
-	
-	to add 4th job after config.job_3 add 
+
+	to add 4th job after config.job_3 add
 	"or PlayerData.job.name == Config.job_4"
 	without the ""
 
@@ -56,7 +56,7 @@ Keys = {
 Config.use_esx = true
 
 -- Command or ( Automatic / Keybind = False )
-Config.use_command = true
+Config.use_command = false
 
 -- Automatic or Keybind
 Config.use_keybind = false
